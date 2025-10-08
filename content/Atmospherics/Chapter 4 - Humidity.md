@@ -1,0 +1,32 @@
+- **Absolute humidity:** mass of water vapour / volume of air
+- Rising air will experience changes to its volume as a result of changes to its surrounding air pressure - resultantly, its absolute humidity changes even though the vapour content has remained constant
+- Therefore, absolute humidity is not too useful for atmospheric studies
+- Instead, it is more useful to express humidity through components not influenced by changes in air volume.
+- **Specific humidity** is the total mass of water vapour / total mass of the air (inc. water vapour)
+- The **mixing ratio** is: mass of water vapour / mass of dry air
+- Specific humidity and mixing ration remain constant in an air parcel so long as water vapour is not added or removed.
+- Specific humidity is highest at the equator and decreases with latitude
+- **Vapour pressure** is the pressure exerted by water vapour in the air.
+	- The total pressure inside an air parcel is equal to the sum of the pressures of the individual gasses - Dalton's law of partial pressure
+	- The actual vapour pressure is a good measure of the total amount of water vapour in the air
+- Actual vapour pressure indicates the air's total water vapour content, whilst **saturation vapour pressure** describes how much water vapour is necessary to make the air saturated at a given temperature (saturated air has the same rate of condensation and evaporation)
+- **Saturation vapour pressure**: pressure the water vapour molecules would exert if the air were saturated with vapour at a given temperature
+- Because air molecules have a higher velocity at higher temperatures and are more likely to be able to evaporate, more water vapour is required to saturate air at higher temperatures - more water vapour means a greater pressure.
+- SVP is therefore primarily dependent on temperature
+- When water and ice both exist at the same temperature below freezing, the saturation vapour pressure just above the water is greater than the saturation pressure just above ice. This is because it is harder for molecules to escape an ice surface than a water surface.
+- **Relative Humidity**: the ratio of the amount of water vapour actually in the air to the maximum amount of water vapour required for saturation at that particular temperature (and pressure)
+$$
+RH = \frac{\text{Water Vapour Content}}{\text{Water Vapour Capacity}} = \frac{\text{Actual Vapour Pressure}}{\text{Saturation Vapour Pressure}} * 100%
+$$
+- Air with 100% relative humidity is therefore saturated.
+- Air with a relative humidity greater than 100% is said to be supersaturated
+- As temperature increases, RH decreases
+- Diurnal changes in RH are important for understanding diurnal evaporation rates from e.g., vegetation 
+- **Dew Point:** temperature at which air would have to be cooled (with no change in air pressure or moisture content) for saturation to occur (to reach the saturation vapour pressure)
+	- It is determined with respect to a flat surface 
+	- With respect to a flat surface of ice, it is the frost point
+	- High due points -> high water vapour content
+- When air temperature and the dew point have a large difference, the relative humidity is low. When they have the same value, the air is saturated and the relative humidity is 100%
+- RH in clouds when it's raining is 100%. However, it is not necessarily 100% below the cloud. Therefore, raindrops can evaporate as they fall, reducing the temperature of the air through the absorption of latent heat and increases the air's water vapour content. This causes the relative humidity to rise and it can become saturated if rainfall persists.
+- ![[Pasted image 20250209191855.png]]
+- Explains why RH is often high at the poles even though the air is dry - both air temperature and the dew point are very low
