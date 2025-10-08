@@ -1,6 +1,6 @@
 # Part II Geography Notes
 
-These notes contain journal article readings and note summaries, uploaded from my Obsidian vault.
+These notes contain journal article readings and note summaries uploaded from my Obsidian vault.
 Journal article file are named simply as their Harvard in-text citation.
 > E.g., "Rounce et al., 2018.md"
 
