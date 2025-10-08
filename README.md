@@ -1,18 +1,16 @@
-# Quartz v4
+---
+title: Part II Geography Notes
+---
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+These notes contain journal article readings and note summaries, uploaded from my Obsidian vault.
+Journal article file are named simply as their Harvard in-text citation.
+> E.g., "Rounce et al., 2018.md"
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Unfortunately, because Obsidian and Quartz appear to be handling links differently, the tags within each journal artical (which group articles by thematic area), don't work. Sorry!
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Detailed note summaries exist for:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+> Glaciology
+> Atmospherics
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+*(I couldn't bring myself to do the same for Natural Hazards)*
